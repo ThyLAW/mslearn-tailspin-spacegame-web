@@ -2,7 +2,7 @@
   {
     "id": "1",
     "userName": "duality",
-    "avatarUrl": "images\/avatars\/default.svg",
+    "avatarUrl": "images/avatars/default.svg",
     "achievements": [
       "Professor",
       "Space Race",
@@ -18,7 +18,7 @@
   {
     "id": "2",
     "userName": "arrise",
-    "avatarUrl": "images\/avatars\/default.svg",
+    "avatarUrl": "images/avatars/default.svg",
     "achievements": [
       "Cosmologist",
       "Professor",
@@ -34,7 +34,7 @@
   {
     "id": "3",
     "userName": "evergrid",
-    "avatarUrl": "images\/avatars\/default.svg",
+    "avatarUrl": "images/avatars/default.svg",
     "achievements": [
       "Faster than Light",
       "Photon Hunter",
@@ -47,7 +47,7 @@
   {
     "id": "4",
     "userName": "sodapop",
-    "avatarUrl": "images\/avatars\/default.svg",
+    "avatarUrl": "images/avatars/default.svg",
     "achievements": [
       "Photon Hunter",
       "Cosmologist",
@@ -63,15 +63,13 @@
   {
     "id": "5",
     "userName": "shortitem78",
-    "avatarUrl": "images\/avatars\/default.svg",
-    "achievements": [
-      "Atom Smasher"
-    ]
+    "avatarUrl": "images/avatars/default.svg",
+    "achievements": ["Atom Smasher"]
   },
   {
     "id": "6",
     "userName": "captaingrocs",
-    "avatarUrl": "images\/avatars\/default.svg",
+    "avatarUrl": "images/avatars/default.svg",
     "achievements": [
       "Cruiser",
       "Master Pilot",
@@ -84,7 +82,7 @@
   {
     "id": "7",
     "userName": "protr2",
-    "avatarUrl": "images\/avatars\/default.svg",
+    "avatarUrl": "images/avatars/default.svg",
     "achievements": [
       "Cosmologist",
       "Professor",
@@ -97,7 +95,7 @@
   {
     "id": "8",
     "userName": "hydragon",
-    "avatarUrl": "images\/avatars\/default.svg",
+    "avatarUrl": "images/avatars/default.svg",
     "achievements": [
       "Master Pilot",
       "Atom Smasher",
@@ -112,7 +110,7 @@
   {
     "id": "9",
     "userName": "banant",
-    "avatarUrl": "images\/avatars\/default.svg",
+    "avatarUrl": "images/avatars/default.svg",
     "achievements": [
       "Atom Smasher",
       "Cruiser",
@@ -125,7 +123,7 @@
   {
     "id": "10",
     "userName": "microle",
-    "avatarUrl": "images\/avatars\/default.svg",
+    "avatarUrl": "images/avatars/default.svg",
     "achievements": [
       "Master Pilot",
       "Particle Accelerator",
@@ -141,7 +139,7 @@
   {
     "id": "11",
     "userName": "flowfish",
-    "avatarUrl": "images\/avatars\/default.svg",
+    "avatarUrl": "images/avatars/default.svg",
     "achievements": [
       "Particle Accelerator",
       "Atom Smasher",
@@ -157,7 +155,7 @@
   {
     "id": "12",
     "userName": "easis",
-    "avatarUrl": "images\/avatars\/default.svg",
+    "avatarUrl": "images/avatars/default.svg",
     "achievements": [
       "Atom Smasher",
       "Professor",
@@ -169,7 +167,7 @@
   {
     "id": "13",
     "userName": "caspneti",
-    "avatarUrl": "images\/avatars\/default.svg",
+    "avatarUrl": "images/avatars/default.svg",
     "achievements": [
       "Photon Hunter",
       "Particle Accelerator",
@@ -179,7 +177,7 @@
   {
     "id": "14",
     "userName": "banant",
-    "avatarUrl": "images\/avatars\/default.svg",
+    "avatarUrl": "images/avatars/default.svg",
     "achievements": [
       "Cruiser",
       "Faster than Light",
@@ -194,7 +192,7 @@
   {
     "id": "15",
     "userName": "moose",
-    "avatarUrl": "images\/avatars\/default.svg",
+    "avatarUrl": "images/avatars/default.svg",
     "achievements": [
       "Faster than Light",
       "Space Race",
@@ -209,15 +207,13 @@
   {
     "id": "16",
     "userName": "glishell",
-    "avatarUrl": "images\/avatars\/default.svg",
-    "achievements": [
-      "Cosmologist"
-    ]
+    "avatarUrl": "images/avatars/default.svg",
+    "achievements": ["Cosmologist"]
   },
   {
     "id": "17",
     "userName": "scord123",
-    "avatarUrl": "images\/avatars\/default.svg",
+    "avatarUrl": "images/avatars/default.svg",
     "achievements": [
       "Photon Hunter",
       "Particle Accelerator",
@@ -231,7 +227,7 @@
   {
     "id": "18",
     "userName": "undlease12",
-    "avatarUrl": "images\/avatars\/default.svg",
+    "avatarUrl": "images/avatars/default.svg",
     "achievements": [
       "Cosmologist",
       "Particle Accelerator",
@@ -248,7 +244,7 @@
   {
     "id": "19",
     "userName": "glishell",
-    "avatarUrl": "images\/avatars\/default.svg",
+    "avatarUrl": "images/avatars/default.svg",
     "achievements": [
       "Photon Hunter",
       "Cruiser",
@@ -260,11 +256,23 @@
   {
     "id": "20",
     "userName": "vivagran",
-    "avatarUrl": "images\/avatars\/default.svg",
+    "avatarUrl": "images/avatars/default.svg",
+    "achievements": ["Photon Hunter", "Space Race", "King of the Hill"]
+  },
+  {
+    "id": "21",
+    "userName": "law175",
+    "avatarUrl": "images/avatars/default.svg",
     "achievements": [
-      "Photon Hunter",
+      "Professor",
       "Space Race",
-      "King of the Hill"
+      "Photon Hunter",
+      "Professor",
+      "King of the Hill",
+      "Faster than Light",
+      "Cosmologist",
+      "Cruiser",
+      "Particle Accelerator"
     ]
   }
 ]
