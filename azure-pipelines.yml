@@ -5,9 +5,10 @@ pool:
   vmImage: "ubuntu-20.04"
   demands:
     - npm
+
 variables:
-  wwwrootDir: "Tailspin.SpaceGame.Web/wwwroot"
   buildConfiguration: "Release"
+  wwwrootDir: "Tailspin.SpaceGame.Web/wwwroot"
   dotnetSdkVersion: "5.x"
 
 steps:
@@ -50,16 +51,8 @@ steps:
       command: "publish"
       projects: "**/*.csproj"
       publishWebProjects: false
-      arguments: "--no-build --configuration $(buildConfiguration) --output $(Build.ArtifactStagingDirectory)/Release"
+      arguments: "--no-build --configuration $(buildConfiguration) --output $(Build.ArtifactStagingDirectory)/$(buildConfiguration)"
       zipAfterPublish: true
-
-  - template: templates/build.yml
-    parameters:
-      buildConfiguration: "Debug"
-
-  - template: templates/build.yml
-    parameters:
-      buildConfiguration: "Release"
 
   - task: PublishBuildArtifacts@1
     displayName: "Publish Artifact: drop"
